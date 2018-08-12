@@ -1,0 +1,10 @@
+C:\Users\Yannick\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ChessTest.exe.config
+C:\Users\Yannick\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ChessTest.exe
+C:\Users\Yannick\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ChessTest.pdb
+C:\Users\Yannick\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ChessTest.csprojResolveAssemblyReference.cache
+C:\Users\Yannick\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ChessTest.Properties.Resources.resources
+C:\Users\Yannick\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ChessTest.csproj.GenerateResource.Cache
+C:\Users\Yannick\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ChessTest.csproj.CoreCompileInputs.cache
+C:\Users\Yannick\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ChessTest.exe
+C:\Users\Yannick\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ChessTest.pdb
+C:\Users\Yannick\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Piece.resources
